@@ -1,0 +1,22 @@
+JOELEA'S BIRTHDAY GARDEN — UPLOAD CHECKLIST
+
+1. Download this ZIP and extract it.
+2. Open the extracted folder.
+3. Upload the CONTENTS of this folder to the ROOT of your GitHub repository.
+   Do not upload only the ZIP file, and do not place the files inside an extra nested folder.
+4. Make sure index.html appears at the repository root.
+5. Commit the uploaded files.
+6. Open repository Settings > Pages.
+7. Under Build and deployment, choose "Deploy from a branch".
+8. Select branch "main" and folder "/(root)", then Save.
+9. Wait for GitHub Pages to publish and open the URL it provides.
+
+If your repository uses another default branch, choose that branch instead.
+
+THIS IS A STATIC WEBSITE:
+- No npm install or build step is required.
+- No Python, Flask, requirements.txt, or Procfile is required.
+- Keep index.html, css/, and js/ together.
+- The music/ folder contains instructions only; music is optional.
+
+The project includes the birthday wish letter and Psalm 20:4 and Psalm 139:14.

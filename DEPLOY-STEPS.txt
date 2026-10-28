@@ -1,0 +1,26 @@
+JOELEA’S BIRTHDAY GARDEN — GITHUB UPLOAD CHECKLIST
+
+BEFORE UPLOADING
+1. Extract this ZIP file on your computer.
+2. Open the extracted folder.
+3. Upload the CONTENTS of the folder to the top level of your GitHub repository.
+4. Confirm index.html is at the top level (not inside another project folder).
+5. Keep css/, js/, and music/ folders intact. Do not upload only the ZIP file.
+
+PUBLISH WITH GITHUB PAGES
+1. Open your repository on GitHub.
+2. Go to Settings > Pages.
+3. Under Build and deployment, choose “Deploy from a branch”.
+4. Select branch “main” and folder “/(root)”.
+5. Click Save and wait for the deployment to finish.
+6. Open the URL shown in the Pages section and test the site on a phone.
+
+If your repository uses a branch other than main, select that branch.
+
+OPTIONAL: RENDER STATIC SITE
+Branch: main
+Root Directory: leave blank
+Build Command: echo "No build needed"
+Publish Directory: .
+
+This is a static site. No Flask, Procfile, requirements.txt, npm install, or build command is needed.
